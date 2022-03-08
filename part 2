@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prem Ranjan</title>
+</head>
+<body>
+    <h1>This is H1 tag</h1>
+    <br>
+    <hr>
+    <h2>This is H2 tag</h2>
+    <br>
+    <hr>
+    <h3>This is H3 tag</h3>
+    <br>
+    <hr>
+    <h4>This is H4 tag</h4>
+    <br>
+    <hr>
+    <h5>This is H5 tag</h5>
+    <br>
+    <hr>
+    <h6>This is H6 tag</h6>
+    <br>
+    <hr>
+    <h1><u>About me</u></h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur, sint.
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere nulla cupiditate facilis voluptas rem eum distinctio sequi numquam sapiente sint! Totam, sint eligendi. Consequatur cupiditate architecto modi omnis ab cum!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sunt iste voluptatum consequatur quidem natus quasi quia pariatur id, modi repellendus obcaecati eum eligendi totam quae provident eius quis ipsum!Loremlorem
+        lorem
+        <br>
+        <br>
+         <u>My name is Prem Ranjan</u>
+    </p>
+    <img src="https://files.prokerala.com/res/images/news/993331-indian-cricketer-virat-kohli-file-photo-ians-348893_1200.jpg" height="200px">
+
+
+    <hr>
+
+
+    <table cellspacing="30px">
+        <tr>
+            <th>Year</th>
+            <th>Something</th>
+            <th>percentage( % )</th>
+        </tr>
+
+        <tr>
+            <td>2021</td>
+            <td>CLASS 12 PASS OUT</td>
+            <th>99%</th>
+        </tr>
+
+        <tr>
+           <td>2003</td> 
+           <td>YEAR</td>
+        </tr>
+
+
+    </table>
+    <hr>
+
+<h1><u>Contact me </u></h1>
+    <form action="">
+        <label for="">Your Name :</label>
+        <input type="text" placeholder="Prem Ranjan" required>
+        <br>
+        <br>
+        <label for="">Your Email :</label>
+        <input type="text" placeholder="kumarprem2543@gmail.com" value="kumarprem2543@gmail.com">
+        <br>
+        <br>
+        <label>Your Fav color :</label>
+        <input type="text" placeholder="Black">
+        <br> 
+        <br>
+        <label> Your Fav Cricketer :</label>
+        <input type="text" placeholder="Virat Kholi">
+        <br>
+        <br>
+        <label>My Hometown :</label>
+        <input type="text" placeholder="Jharkhand">
+        <br>
+        <br>
+        <input required type="checkbox" name="notification" id="">
+        <label> Do you want to receieve notifications ?</label>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
